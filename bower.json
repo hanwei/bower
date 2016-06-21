@@ -1,0 +1,18 @@
+{
+  "name": "FakeMapCore-bower",
+  "authors": [
+    "hanwei <rolarunning@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
